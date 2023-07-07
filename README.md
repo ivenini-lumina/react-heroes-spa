@@ -1,3 +1,3 @@
-# Gif Expert App
+# Heroes SPA
 
-Repo del proyecto de Heores App de React
+Repo del proyecto de Heores Single Page Application de React
