@@ -1,3 +1,3 @@
 # Heroes SPA
 
-Repo del proyecto de Heores Single Page Application de React
+Repo del proyecto de Heroes Single Page Application de React
